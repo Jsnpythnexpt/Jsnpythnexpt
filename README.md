@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph Gray</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">React, Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsnpythnexpt&label=Profile%20views&color=0e75b6&style=flat" alt="jsnpythnexpt" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Python**
 
-- 📫 How to reach me **grayjoseph187@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
